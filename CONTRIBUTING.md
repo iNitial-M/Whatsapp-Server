@@ -16,10 +16,10 @@ These steps will guide you through contributing to this project:
 -   Fork the repo
 -   Clone it and install dependencies
 
-        $ git clone https://github.com/https://github.com/salman0ansari/whatsapp-api-nodejs
+        $ git clone https://github.com/iNitialM503/whatsapp-server.git
 
           $ npm install
 
 -   Make changes
 
--   Send a [GitHub Pull Request](https://github.com/salman0ansari/whatsapp-api-nodejs/compare?expand=1) with a clear list of what you've done (read more [about pull requests](https://help.github.com/articles/about-pull-requests/)). Make sure all of your commits are atomic (one feature per commit).
+-   Send a [GitHub Pull Request](https://github.com/iNitialM503/whatsapp-server/compare?expand=1) with a clear list of what you've done (read more [about pull requests](https://help.github.com/articles/about-pull-requests/)). Make sure all of your commits are atomic (one feature per commit).
